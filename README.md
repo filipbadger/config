@@ -5,4 +5,4 @@ This repo contains a script configuring zsh environment for a new device so I wo
 
 ## Running
 
-  setup_env.sh
+    setup_env.sh
