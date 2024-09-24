@@ -12,3 +12,4 @@ alias pull="git pull"
 
 # navigation
 alias go='cd ~/PycharmProjects/badger-go'
+
