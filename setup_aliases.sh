@@ -12,4 +12,5 @@ alias pull="git pull"
 
 # navigation
 alias go='cd ~/PycharmProjects/badger-go'
+alias drupe='cd ~/PycharmProjects/badger-go/frontends/drupe-mo'
 
